@@ -1,0 +1,2 @@
+# ATM-simulation-project
+本项目实现一个模仿银行ATM机的应用，用JavaGUI编程技术和JDBC编程技术实现ATM机的大部分功能。
